@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D2F2BB73-46EC-E2F4-B882-C86205FB6E41}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WheelSpinner.cs">
+    <Files>
+      <File FileName="Assets/WheelSpinner.cs" Line="80" Column="85" />
+      <File FileName="Assets/TimerManager.cs" Line="109" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JefferyKellyBonusWheel" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="WheelSpinner.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1c8498a8-7181-4636-8103-dbfc42eff98d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
